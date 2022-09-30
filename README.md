@@ -1,6 +1,6 @@
 # A Collection of 50+ Programming and Software Engineering-related Books
 
-<img src="https://github.com/raihansharifrimon/programming-books/blob/main/banner.png" width="100%" height="auto" alt="banner">
+<img src="https://github.com/raihansharifrimon/programming-books/blob/main/thum-banner.png" width="100%" height="auto" alt="banner">
 
 
 
